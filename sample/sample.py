@@ -8,7 +8,7 @@ else:
 
 z= x+y
 print(z)
-print (x)
+print (x+7)
 print(z+1)
 
 
